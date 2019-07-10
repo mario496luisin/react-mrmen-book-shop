@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+You must do 'npm install' to generate the necessary files and then you can do 'npm start' to view the app in the localhost.
 In the project directory, you can run:
 
 ### `npm start`
