@@ -1,3 +1,5 @@
+This app took me almos 4 hours of time.
+I have used styled-components to style some components because I see this is a great feature, see the link: https://www.styled-components.com
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
