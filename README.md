@@ -1,7 +1,11 @@
+This app took me almos 4 hours of time.
+I have used styled-components to style some components because I see this is a great feature, see the link: https://www.styled-components.com
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have used react paypal express checkout for the products to be checked out and if you go to this link you can find it with really nice documentation https://www.npmjs.com/package/react-paypal-express-checkout. So then I copied the full example and placed it in the PaypalButton.js inside the components folder.
+To make the Paypal work you have to visit here https://developer.paypal.com/developer/applications/ and then you can to get the credentials in the api apps section. Note you have to set up your paypal account first. This paypal will work in the sandbox mode not in the production mode because this is test so once you get the code that you need to place it in the PaypalButton.js line 34 you will simulate a buy.
 
 ## Available Scripts
-
+You must do 'npm install' to generate the necessary files and then you can do 'npm start' to view the app in the localhost.
 In the project directory, you can run:
 
 ### `npm start`
